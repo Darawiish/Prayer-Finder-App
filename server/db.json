@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Masjid At-taqwa",
+        "time": ["12pm", "1pm"],
+        "address": "1608 Como Ave, Saint Paul, MN, United States, 55108",
+        "city": "Saint Paul",
+        "zipcode": "55108",
+        "url": "https://masmn.org/masjid-taqwa/",
+        "imageUrl": "https://masmn.org/wp-content/uploads/masjidtaqwacomo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SMIC Masjid",
+        "time": ["1:15pm"],
+        "address": "15400 S Robert Trail, Rosemount, Minnesota 55068",
+        "city": "Minneapolis",
+        "zipcode": "55068",
+        "url": "https://www.southmetroic.org/",
+        "imageUrl": "https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/33106970_597777847261732_3107709078344826880_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=mZUKwTdADuEAX8gI1na&_nc_ht=scontent-msp1-1.xx&oh=00_AT_KkokC6NX5G83_sGtGvub63LvxDVXT5HPC8vQiOvTzUQ&oe=6318B976"
+    },
+    {
+        "id": 3,
+        "name": "Blaine Masjid",
+        "time": ["12pm","1pm","2pm"],
+        "address": "12175 Aberdeen St NE, Blaine, MN 55449",
+        "zipcode": "55449",
+        "city": "Blaine",
+        "url": "https://masmn.org/bcc/",
+        "imageUrl": "https://masmn.org/wp-content/uploads/img07481.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Maple Grove Masjid",
+        "time": ["1pm"],
+        "address": "10186 Lancaster Ln N, Maple Grove, MN 55369",
+        "zipcode": "55369",
+        "city": "Maple Grove",
+        "url": "https://www.facebook.com/MapleGroveMasjid/",
+        "imageUrl": "https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/201849477_573153600734660_1271396131434284082_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1mh-ifZ_CsMAX8KerEN&_nc_ht=scontent-msp1-1.xx&oh=00_AT8lmFGiQ5SIJpI4KAzXA8susss3RQG9hMOgJAJESnl3ig&oe=6317D178"
+    },
+    {
+        "id": 5,
+        "name": "Masjid AbuBakar",
+        "time": ["1pm"],
+        "address": "2824 13th Ave S, Minneapolis, MN 55407",
+        "zipcode": "55407",
+        "city": "Minneapolis",
+        "url": "http://abuubakar.org/",
+        "imageUrl": "https://donate.madinah.org/hosted/images/19/7165bf221548c486f1c7dd32da818a/NS5qcGcxNjEzOTQ3NjUxMjI5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tawfiq Islamic Center",
+        "time": ["1pm", "2pm"],
+        "address": "2400 Minnehaha Ave, Minneapolis, MN",
+        "zipcode": "55404",
+        "city": "Minneapolis",
+        "url": "https://www.tawfiqic.org/",
+        "imageUrl": "https://static.wixstatic.com/media/6321a3_d1b3d9104b30437489fc46ae49c8c75c~mv2.jpg/v1/fill/w_1472,h_683,al_c,q_85,enc_auto/6321a3_d1b3d9104b30437489fc46ae49c8c75c~mv2.jpg"
+    }
+
+ ]
+

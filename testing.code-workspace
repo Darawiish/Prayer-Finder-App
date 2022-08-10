@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../6week/1day/testing"
+		},
+		{
+			"path": "../6week/1day/qa-testing-demo"
+		},
+		{
+			"path": "../Assesment/5Assesment/assessment-data/travel-journal/server"
+		},
+		{
+			"path": "../Assesment/5Assesment/assessment-data"
+		},
+		{
+			"path": "../6week/2day/automation"
+		},
+		{
+			"path": "../6week/2day/automation-demo"
+		},
+		{
+			"path": "../6week/3day/deployment-demo"
+		},
+		{
+			"path": "../6week/4day/devops-demo"
+		},
+		{
+			"path": "../6week/4day/traceability"
+		},
+		{
+			"path": "../Assesment/6Assesment/assessment-qa-devops"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assessment-qa-devops"
+	}
+}
