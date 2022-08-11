@@ -24,6 +24,9 @@ function addInfo(e) {
     alert(`"User ${username.value}, ${useremail.value} has been successfully added:"`)
 
     userInfo(bodyobj)
+
+    useremail.value= ""
+    username.value= ""
 }
 
 
