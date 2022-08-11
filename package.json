@@ -6,14 +6,21 @@
   },
   "scripts": {
     "start": "node server/index.js"
-  }, 
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
- 
+  "license": "ISC",
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darawiish/Prayer-Finder-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darawiish/Prayer-Finder-App/issues"
+  },
+  "homepage": "https://github.com/Darawiish/Prayer-Finder-App#readme",
+  "description": ""
 }
-
-
-
-
-
